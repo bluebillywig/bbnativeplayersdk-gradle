@@ -1,0 +1,6 @@
+[submodule "bbnativesharedmodule"]
+	path = app/keepout/bbnativesharedmodule
+	url = https://github.com/bluebillywig/bbnativesharedmodule
+[submodule "bbnativeplayersdk-kotlin"]
+	path = app/keepout/bbnativeplayersdk-kotlin
+	url = https://github.com/bluebillywig/bbnativeplayersdk-kotlin
